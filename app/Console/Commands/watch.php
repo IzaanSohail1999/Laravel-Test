@@ -26,6 +26,6 @@ class watch extends Command
      */
     #[NoReturn] public function handle(): void
     {
-        dd("this is a test command");
+        dd("this is a test command further");
     }
 }
